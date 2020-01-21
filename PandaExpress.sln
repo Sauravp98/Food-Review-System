@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PandaExpress", "PandaExpress\PandaExpress.csproj", "{F8D09E5A-997A-4453-90B3-76DBD1141830}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8D09E5A-997A-4453-90B3-76DBD1141830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8D09E5A-997A-4453-90B3-76DBD1141830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8D09E5A-997A-4453-90B3-76DBD1141830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8D09E5A-997A-4453-90B3-76DBD1141830}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB4EBC7D-E589-49C2-B732-8622A2B4996F}
+	EndGlobalSection
+EndGlobal
